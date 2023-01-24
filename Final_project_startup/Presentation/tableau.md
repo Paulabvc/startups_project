@@ -1,0 +1,2 @@
+### Tableau visualizations
+[link] (https://public.tableau.com/app/profile/paula7799/viz/startup_project_on/startup_final?publish=yes)
